@@ -1,4 +1,8 @@
 Test Git Quick start demo
 Start is being modified 1
+<<<<<<< HEAD
 add new words to this text file
 this is an update
+=======
+This is a another update from Linux machine
+>>>>>>> c6e94a9343877598db3a5aacf938107939047c56
